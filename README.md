@@ -1,10 +1,11 @@
 # Ciao! 👋
 
-I'm **Giorgia** (pronouns she/her) — BioCloud Training Manager at [Australian BioCommons](https://www.biocommons.org.au/), helping life scientists build computational skills and confidence through training and community building.
+I'm **Giorgia** (she/her), BioCloud Training Manager at [Australian BioCommons](https://www.biocommons.org.au/), helping life scientists build computational skills and confidence through training and community building.
 
 My work sits at the intersection of **bioinformatics, education, accessibility, and community engagement**. I coordinate, design and deliver national-scale training programs, support researchers adopting reproducible computational practices, and advocate for more inclusive learning experiences across the life sciences.
 
-> 💡 My work on GitHub centres on researcher enablement: creating training materials, documentation, and community resources that help life scientists adopt computational tools and reproducible research practices.
+> 💡 **About this GitHub profile**  
+> My GitHub activity focuses on researcher enablement. I contribute to documentation, training materials, educational resources, and community projects that help researchers adopt bioinformatics tools and reproducible research practices.
 
 - 🎓 The [Carpentries Instructor](https://carpentries.org/instructor-training/) and [Trainer](https://carpentries.org/instructor-trainer-training/)
 - ♿ Accessibility and inclusion advocate in STEM and research
@@ -13,52 +14,83 @@ My work sits at the intersection of **bioinformatics, education, accessibility, 
 - ☕ Fun facts: I accidentally became a trainer and now spend most of my time helping other trainers succeed. I spend the rest of my time practicing and teaching yoga, and living funny and messy moments with my neurodiverse family.
 
 
-## Languages and tools I am familiar with 
+## Tools I use 
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+R • RStudio • Git • GitHub • Bash • Linux • Markdown
 
+<br>
 
-## Have a look at what I’ve built, led or contributed To 👀
+<img alt="R programming language" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img alt="RStudio IDE" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> <img alt="Git version control" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Bash shell" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
-#### 🎓 Training Coordination, Development & Delivery
+## Things I've built, led, or contributed to 👀
 
-- **[Exploratory Data Analysis (EDA)](https://github.com/Sydney-Informatics-Hub/EDAinR) and [Machine Learning (ML)](https://github.com/Sydney-Informatics-Hub/Module3R) in R**  
-  Self-paced, hands-on, interactive learning resources. 
+### 🎓 Training coordination, development & delivery
 
-- **[EMBL-Australia - Mastering Data Visualisation Design](https://www.biocommons.org.au/news/embl-australia-phd-2025)**
+- **Exploratory Data Analysis (EDA) in R**  
+  Self-paced, interactive learning resource introducing EDA using R.  
+  GitHub repository: https://github.com/Sydney-Informatics-Hub/EDAinR
 
-- **[AI in the Life Sciences Webinar Series](https://www.youtube.com/playlist?list=PL3KeWF8P6MjxK77ztOZOY5RoPXN2ftOq7)**  
+- **Machine Learning (ML) in R**  
+  Self-paced, interactive learning resource introducing ML in R.  
+  GitHub repository: https://github.com/Sydney-Informatics-Hub/Module3R
 
-- **[Distributed Training at Scale - Nextflow](https://zenodo.org/records/16791039)**
+- **Mastering Data Visualisation Design**  
+  Workshop developed for EMBL Australia PhD Course participants.  
+  Blog post: https://www.biocommons.org.au/news/embl-australia-phd-2025
+
+- **AI in the Life Sciences Webinar Series**  
+  National webinar series showcasing AI applications across the life sciences.  
+  Australian BioCommons YouTube series: https://www.youtube.com/playlist?list=PL3KeWF8P6MjxK77ztOZOY5RoPXN2ftOq7
+
+- **Distributed Nextflow Training**  
+  -  Coordinated delivery of national Nextflow training:
+     -   Zenodo record: https://zenodo.org/records/16791039
+  -  Resources supporting trainers delivering Nextflow training:
+     -   GitHub repository: https://sydney-informatics-hub.github.io/nf4ls-materials/
 
 ---
 
-#### 📚 Documentation & Learning Resources
+### 📚 Documentation & learning resources
 
-- **[Australian BioCommons Leadership Share (ABLeS) Documentation](https://australianbiocommons.github.io/ables/)**  
+- **Australian BioCommons Leadership Share (ABLeS) Documentation**  
+  Rendered GitHub page: https://australianbiocommons.github.io/ables/
 
-- **[Blog - Skills for Trainers](https://www.biocommons.org.au/blogs/skills-for-trainers)**  
+- **Skills for Trainers**  
+  Resources for learning about training 
+  Blog post: https://www.biocommons.org.au/blogs/skills-for-trainers
 
 ---
 
-#### ♿ Diversity, Accessibility & Inclusion
+### ♿ Accessibility & inclusion
 
-- **[Australian BioCommons Diversity, Disability & Inclusion Statement](https://zenodo.org/records/17730717)**  
-  Development of organisational commitments to accessibility and inclusion.  
+- **Australian BioCommons Diversity, Disability & Inclusion Statement**   
+  Zenodo record: https://zenodo.org/records/17730717
 
-- **Accessible & Inclusive Training Advocacy**  
-  Speaker, facilitator, and contributor to discussions on accessible training practices.
-  - [ARDC National Skills Forum: Accessible and inclusive training](https://www.youtube.com/watch?v=brJuVYBbZLY)
+- **Accessible and Inclusive Training**  
+  Panel discussion on improving accessibility in research training.  
+  YouTube video: https://www.youtube.com/watch?v=brJuVYBbZLY
+
+---
 
 ## Connect with me
 
-<a href= "giorgia@biocommons.org.au"><img src = "https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
-<a href="https://www.linkedin.com/in/giorgiamori87"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://orcid.org/0000-0003-3469-5632"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+<a href="mailto:giorgia@biocommons.org.au">
+<img alt="Email Giorgia" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/giorgiamori87">
+<img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://orcid.org/0000-0003-3469-5632">
+<img alt="ORCID profile" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+</a>
+
+<a href="https://scholar.google.com/citations?user=1gFfK8AAAAAJ">
+<img alt="Google Scholar profile" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+</a>
 
 ---
+
+<sub>This README has been optimized for accessibility based on GitHub's Community post "[Tips for Making your GitHub Profile Page Accessible](https://github.com/community)".</sub>
