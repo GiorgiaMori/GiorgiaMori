@@ -16,12 +16,33 @@ My work sits at the intersection of **bioinformatics, education, accessibility, 
 
 ## Tools I use 
 
-R • RStudio • Git • GitHub • Bash • Linux • Markdown
+<a href="https://www.r-project.org/">
+  <img alt="R programming language" src="https://cdn.simpleicons.org/r/276DC3" width="40" height="40">
+</a>
 
-<br>
+<a href="https://posit.co/products/open-source/rstudio">
+  <img alt="RStudio" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="40" height="40">
+</a>
 
-<img alt="R programming language" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img alt="RStudio IDE" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"> <img alt="Git version control" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Bash shell" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<a href="https://git-scm.com/">
+  <img alt="Git version control" src="https://cdn.simpleicons.org/git/F05032" width="40" height="40">
+</a>
+
+<a href="https://github.com/">
+  <img alt="GitHub" src="https://cdn.simpleicons.org/github/181717" width="40" height="40">
+</a>
+
+<a href="https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet">
+  <img alt="Bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40">
+</a>
+
+<a href="https://code.visualstudio.com/">
+  <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40">
+</a>
+
+<a href="https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet">
+  <img alt="Markdown" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40">
+</a>
 
 ## Things I've built, led, or contributed to 👀
 
