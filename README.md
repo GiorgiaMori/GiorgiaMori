@@ -7,6 +7,8 @@ My work sits at the intersection of **bioinformatics, education, accessibility, 
 > 💡 **About this GitHub profile**  
 > My GitHub activity focuses on researcher enablement. I contribute to documentation, training materials, educational resources, and community projects that help researchers adopt bioinformatics tools and reproducible research practices.
 
+![Snake animation](https://github.com/GiorgiaMori/GiorgiaMori/blob/output/github-contribution-grid-snake.svg)
+
 - 🎓 The [Carpentries Instructor](https://carpentries.org/instructor-training/) and [Trainer](https://carpentries.org/instructor-trainer-training/)
 - ♿ Accessibility and inclusion advocate in STEM and research
 - 🎤 Regular speaker, facilitator, panel member, and workshop instructor
